@@ -1,10 +1,8 @@
 Pore [![travis badge](https://travis-ci.org/LapisBlue/Pore.svg)](https://travis-ci.org/LapisBlue/Pore)
 =====
 
-Pore is a plugin for the up-and-coming SpongeAPI which acts as a bridge to provide compatibility for Bukkit plugins on servers implementing SpongeAPI.
-
-Please note that Pore is still under heavy development and **is not yet considered functional**. Currently, no Bukkit
-plugins are verified to be supported.
+Pore is a complete reimplementation of the Bukkit API on top of Sponge API. It aims to allow you to run any Bukkit plugins on any Sponge server, be it Quartz, Granite, Glowstone, the official Forge mod, or others. **Pore is currently
+incomplete, and is not known to run any Bukkit plugins.** Contributions are welcomed and encouraged.
 
 Compilation
 -----------
