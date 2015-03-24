@@ -1,7 +1,7 @@
 Pore [![travis badge](https://travis-ci.org/LapisBlue/Pore.svg)](https://travis-ci.org/LapisBlue/Pore)
 =====
 
-Pore is a plugin for the up-and-coming Sponge mod for Forge which serves to enable compatibility for Bukkit plugins on servers implementing SpongeAPI.
+Pore is a plugin for the up-and-coming SpongeAPI which acts as a bridge to provide compatibility for Bukkit plugins on servers implementing SpongeAPI.
 
 Please note that Pore is still under heavy development and **is not yet considered functional**. Currently, no Bukkit
 plugins are verified to be supported.
